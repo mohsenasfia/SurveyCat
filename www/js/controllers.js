@@ -11,6 +11,10 @@ angular.module('starter')
   // Form data for the login modal
   $scope.loginData = {};
 
+  $scope.data = [{
+    question: 'What\'s your name?'
+  }];
+
   // Create the login modal that we will use later
   $ionicModal.fromTemplateUrl('views/profile/profile.html', {
     scope: $scope

@@ -1,9 +1,13 @@
 # SurveyCat
 
-# Random cats
-http://preview.images.memegenerator.net/Instance/Preview?imageID=6541210&generatorTypeID=&panels=&text0=&text1=Testing&text2=&text3=
-332591
-1533638
-1119726
-5780845
-6565502
+SurveyCat is a survey tool showing random cat picture meme with a question. You can swipe it Tinder style  yes or no if you agree with the question on the meme.
+SurveyCat was created at AngularJS Copenhagen Meetup hackaton in 2 hours to explore the stack below.  
+
+* Technologies *
+- Angular.js
+- Ionic
+- Firebase
+- memegenerator.net
+ 
+
+<img src="http://i.imgur.com/s58qPrh.png">
